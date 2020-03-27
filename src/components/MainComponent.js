@@ -3,6 +3,7 @@ import Directory from './DirectoryComponent';
 import CampsiteInfo from './CampsiteInfoComponent';
 import Header from './HeaderComponent';
 import Footer from './FooterComponent';
+import Contact from './ContactComponent';
 import { CAMPSITES } from '../shared/campsites';
 
 class Main extends Component {
