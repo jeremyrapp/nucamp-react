@@ -4,6 +4,6 @@ export const InitialFeedback = {
     phoneNum: '',
     email: '',
     agree: false,
-    contactType: 'Phone',
+    contactType: 'Tel.',
     feedback: ''
 };
